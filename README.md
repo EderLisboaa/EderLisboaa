@@ -8,15 +8,13 @@
 </h3>
 
 <h2 align="center">
-  I'm a Backend Developer 💻!
+  I'm the best Backend Developer of the World 💻 🌍!
 </h2> 
 
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/eder-rog%C3%A9rio"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Eder Lisboa | LinkedIn" width="21px"/></a>
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
 <!-- ## 🔭 I'm currently working on
 
 - My old projects
